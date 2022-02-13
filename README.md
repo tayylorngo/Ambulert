@@ -2,8 +2,11 @@
 
 ## Links
 https://github.com/tayylorngo/Ambulert
+
 https://devpost.com/software/ambulert
+
 https://hopperhacks2022.devpost.com/
+
 https://www3.cs.stonybrook.edu/~wics/hopperhacks/2022/pages/index.html
 
 ## Inspiration
