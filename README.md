@@ -1,4 +1,10 @@
-# Ambulert
+# Ambulert | Hopper Hacks 2022
+
+## Links
+https://github.com/tayylorngo/Ambulert
+https://devpost.com/software/ambulert
+https://hopperhacks2022.devpost.com/
+https://www3.cs.stonybrook.edu/~wics/hopperhacks/2022/pages/index.html
 
 ## Inspiration
 Ambulances sometimes cannot get to emergencies fast enough.  Often, the reason first responders are unable to get to a hospital on time is because of traffic jams. Ambulert aims to tackle that issue by creating a system for emergency service vehicles to avoid traffic altogether. 
